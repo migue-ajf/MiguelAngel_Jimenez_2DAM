@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "294548314319",
+    "firebase_url": "https://watstoeat-2c809-default-rtdb.firebaseio.com",
+    "project_id": "watstoeat-2c809",
+    "storage_bucket": "watstoeat-2c809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294548314319:android:06c8002e984aec02cc7fba",
+        "android_client_info": {
+          "package_name": "com.example.adminwhatstoeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtqj4LDx8DBN904f0zz8Bj-oIb5Cc7-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294548314319:android:67229c2778ba11f6cc7fba",
+        "android_client_info": {
+          "package_name": "com.example.miguelangel_jimenez_dam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtqj4LDx8DBN904f0zz8Bj-oIb5Cc7-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
